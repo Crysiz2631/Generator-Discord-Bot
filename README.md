@@ -25,7 +25,7 @@ It takes a random line from the text file and sends it to the user (of course it
 </h3>
 <div align="center"> 
 You simply put a text file with lines in accounts (default) directory and the bot will automaticly add it to the .stock command and as a .gen service
-  Discord for help and examples: discord.gg/jzMHhqYB9M
+  Discord for help and examples: <a href="discord.gg/jzMHhqYB9M">Join our Discord Server!</a>
 </div>
 <h3 align="center">
 	  Donations
