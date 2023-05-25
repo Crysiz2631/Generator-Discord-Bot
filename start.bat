@@ -1,0 +1,2 @@
+python GeneratorBot.py
+pause

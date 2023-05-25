@@ -1,0 +1,4 @@
+Username:Password
+Or just a line?
+It can be anything! 
+but it has to be on 1 line :D
