@@ -15,7 +15,7 @@ It takes a random line from the text file and sends it to the user (of course it
 </h3>
 
 * `.stock` - Get all of the available services and how many accounts there are.
-* `/gen {name of the service}` - Generates an account and sends it to the user's DMs.
+* `.gen {name of the service}` - Generates an account and sends it to the user's DMs.
 * Highly customizable. Change premium roles, free and premium cooldowns. And open source :D
 * Clean messages.
 * Easy to use and lightweight. Works well with large amount of lines or many people using it at once.
