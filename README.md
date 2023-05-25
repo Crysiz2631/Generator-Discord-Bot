@@ -27,4 +27,11 @@ It takes a random line from the text file and sends it to the user (of course it
 You simply put a text file with lines in accounts (default) directory and the bot will automaticly add it to the .stock command and as a .gen service
   Discord for help and examples: discord.gg/jzMHhqYB9M
 </div>
+<h3 align="center">
+	  Donations
+</h2>
+<div align="center"> 
+PayPal: @christangronbech
+Bitcoin: bc1q02aylakaqhus53wxdum5mjxs98y54unvpsq54c
+</div>
 <sup><sub>This Generator Discord Bot is fully created by Crys#0001 on Discord. The idea came from github.com/Atluzka</sub></sup>
